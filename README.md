@@ -4,6 +4,8 @@
 
 > An Ant Design Vue redeisgn project
 
+> **Some vulnerabilities found, should update wepback 4.0 manually.**
+
 ## Build Setup
 
 ``` bash
